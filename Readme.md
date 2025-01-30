@@ -111,12 +111,6 @@ Explore the app and its features!
 
 ---
 
-## 🛤️ Roadmap
-
-See the [open issues](https://github.com/DebjitPramanick/Hotel-Booking-Web-App/issues) for upcoming features and bug fixes.
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Follow these steps:
@@ -125,11 +119,3 @@ Contributions are welcome! Follow these steps:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
----
-
-## 📞 Contact
-
-- **Twitter:** [@debjitpmk](https://twitter.com/debjitpmk)
-- **LinkedIn:** [Debjit Pramanick](https://www.linkedin.com/in/debjit-pramanick-7a6a971b1/)
-- **Project Repository:** [GitHub](https://github.com/DebjitPramanick/Hotel-Booking-Web-App)
